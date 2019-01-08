@@ -1,1 +1,1 @@
-.rb files associated with Launch School's Ruby Basics exercieses
+.rb files associated with Launch School's Ruby Basics exercises
